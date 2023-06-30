@@ -1,5 +1,4 @@
-{
-    "products": [
+[
        {
         "id": 1,
         "image": "https://i.postimg.cc/gJz9JYdk/product1.jpg",
@@ -133,7 +132,4 @@
         "desc": "Every kid needs a go-to pair of sunnies–and these Recycled Sunglasses are it. Keep them handy so they can grab them on the go and enjoy sunny days without the glare.",
         "quantity": 5
        }
-
-
     ]
-}
