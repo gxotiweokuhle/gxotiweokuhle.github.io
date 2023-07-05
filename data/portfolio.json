@@ -1,31 +1,26 @@
 {
     "education":[
-        {    
-            "id":1,
-            "year":2013,
-            "desc":"Graduated with Grade 7 in Beacon View Primary Mitchell's Plain."
-            
-        },
+      
         {
-             "id":2,
+             "id":1,
             "year":2018,
             "desc":"Started and Completed Matric in Lentegeur Secondary High Mitchell's Plain."
             
         },
         {
-             "id":3,
+             "id":2,
             "year":2022,
             "desc":"Started studying N1-N4 Electrical Engineering and completed my studies."
             
         },
         {    
-             "id":4,
+             "id":3,
             "year":2022,
             "desc":"Started and completed an online course on Coursera on Technical Support Fundamentals."
             
         },
         {
-             "id":5,
+             "id":4,
             "year":2023,
             "desc":"Started studying Software Development at Life Choices Academy."
             
