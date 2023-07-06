@@ -2,25 +2,21 @@
     "education":[
       
         {
-             "id":1,
             "year":2018,
             "desc":"Started and Completed Matric in Lentegeur Secondary High Mitchell's Plain."
             
         },
         {
-             "id":2,
             "year":2022,
             "desc":"Started studying N1-N4 Electrical Engineering and completed my studies."
             
         },
-        {    
-             "id":3,
+        {
             "year":2022,
             "desc":"Started and completed an online course on Coursera on Technical Support Fundamentals."
             
         },
         {
-             "id":4,
             "year":2023,
             "desc":"Started studying Software Development at Life Choices Academy."
             
@@ -28,84 +24,110 @@
 
         
     ],
-   
+    "soft skills": [
+
+        {
+            "skill": "Communication"
+        },
+        {
+            "skill": "Team Work"
+        },
+        {
+            "skill": "Flexibility"
+        },
+        {
+            "skill": "Ability to take Criticism"
+        },
+        {
+            "skill": "Time Management"
+        }
+
+    ],
+    "Languages": [
+        {
+            "icon":"https://i.postimg.cc/R0bDJ1BM/html.png"
+        },
+        {
+            "icon":"https://i.postimg.cc/qM8SDC8L/css.png"
+        },
+        {
+            "icon":"https://i.postimg.cc/pLvbPB24/bootstrap.png"
+        },
+        {
+            "icon":"https://i.postimg.cc/vHdSnHp6/java-script.png"
+        },
+        {
+            "icon":"https://i.postimg.cc/C5JDdN37/vue.jpg"
+        },
+        {
+            "icon":"https://i.postimg.cc/137Hv9YB/sql.png"
+        }
+    ],
     "projects":[
         {
-             "id":1,
             "image":"https://i.postimg.cc/NMn8xbJ0/Screenshot-2023-07-01-104309.png",
             "projectName":"My first Bootstrap Portfolio Project",
             "brief":"I was tasked to build a Responsive Portfolio using Bootstrap. I learnt from my mistakes from this project."
         },
         {
-             "id":2,
             "image":"https://i.postimg.cc/qBL601X6/Screenshot-2023-07-01-104424.png",
             "projectName":"Life Choices website",
             "brief":"This was a my first group exercise and each of us is responsible for each page, mine was the Home page."
         },
         {
-             "id":3,
             "image":"https://i.postimg.cc/vHCYdnj6/Screenshot-2023-07-01-104542.png",
             "projectName":"BOOKSTORE ECOMMERCE",
             "brief":"This was my draft for ecommerce website as to my design , feel and theme."
         },
         {
-             "id":4,
             "image":"https://i.postimg.cc/Bnq03Cpb/Screenshot-2023-07-01-104626.png",
             "projectName":"Meta Devices Ecommerce Site",
             "brief":"This was a group exercise for selling electronic devices and had a add to cart functionality. I enjoyed working in a team."
         },
         {
-             "id":5,
             "image":"https://i.postimg.cc/mrHV6v9H/Screenshot-2023-07-01-112640.png",
             "projectName":"Temperature Converter ",
             "brief":"One of the early Javascript project where I was tasked to use the concepts convered to build this site."
         },
         {
-             "id":6,
             "image":"https://i.postimg.cc/8cPRD97w/Screenshot-2023-07-01-112720.png",
             "projectName":"Calculator",
             "brief":"A Javascript project where I had to build a fully functional app to test my understanding."
         }
 
     ], 
-    "testimonials": [
+    "testimonals": [
         {
-             "id":1,
             "image_url":"https://i.postimg.cc/gkXkx4b0/C12-Ayesha-Galant-Class1-1.jpg",
             "name":"Ayesha Galant",
             "role":"Software Developer at LCA",
             "message":"I enjoy working with her, she is creavtive and gives great assistance."
         },
         {
-             "id":2,
             "image_url":"https://i.postimg.cc/Gt93JxBq/C12-C1-Inam-Nkabi-3.jpg",
             "name":"Inam Nkabi",
             "role":"Software Developer at LCA",
             "message":"I admire her Time Management Skills and she is not afraid to ask for assistance when needed."
         },
         {
-             "id":3,
             "image_url":"https://i.postimg.cc/R0RvkDKg/C12-C1-Xola-Bangaza-2.jpg",
             "name":"Xola Bangaza",
             "role":"Software Developer at LCA",
             "message":"She is a great time leader and makes sure that I complete my part in a project."
         },
         {
-             "id":4,
             "image_url":"https://i.postimg.cc/L579ygLR/C12-C2-Abenathi-Sindapi-2.jpg",
             "name":"Abenathi Sindapi",
             "role":"Software Developer at LCA",
             "message":"She is very honest and offers good feedback, she makes it fun working with her."
         },
         {
-             "id":5,
             "image_url":"https://i.postimg.cc/nVT0XYYN/image-1.png",
             "name":"Sidwell Batyi",
             "role":"Software Developer at LCA",
             "message":"She works smoothly in team related activities and gives great advice."
         },
         {
-             "id":6,
             "image_url":"https://i.postimg.cc/nr5SNxdq/meezaan.jpg",
             "name":"Meezan Davids",
             "role":"Software Developer at LCA",
