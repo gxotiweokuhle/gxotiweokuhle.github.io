@@ -32,6 +32,51 @@
         }
         
     ],
+    "skills": [
+
+        {
+            "id": 1,
+            "skill": "Communication"
+        },
+        {
+            "id": 2,
+            "skill": "Team Work"
+        },
+        {
+            "id": 3,
+            "skill": "Flexibility"
+        },
+        {
+            "id": 4,
+            "skill": "Ability to take Criticism"
+        },
+        {
+            "id": 5,
+            "skill": "Time Management"
+        }
+
+    ],
+     "Languages": [
+        {
+            "id": 1,
+            "icon":"https://i.postimg.cc/R0bDJ1BM/html.png"
+        },
+        {
+            "id": 2,
+            "icon":"https://i.postimg.cc/qM8SDC8L/css.png"
+        },
+        
+        {
+            "id": 3,
+            "icon":"https://i.postimg.cc/vHdSnHp6/java-script.png"
+        },
+        {
+            "id": 4,
+            "icon":"https://i.postimg.cc/C5JDdN37/vue.jpg"
+        }
+        
+    ],
+    
 
     "projects":[
         {
